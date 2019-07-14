@@ -45,7 +45,7 @@
             </div>
         </section>
         <section class="my-5">
-            <div class="row">
+            <div class="row justify-content-center">
                 <div class="col-md-3 align-self-center">
                     <div class="card bg-light">
                         <div class="card-body">
@@ -59,14 +59,6 @@
                         <div class="card-body">
                             <h5 class="card-title text-center">MAPE</h5>
                             <h1 class="display-5 text-center font-weight-bold text-dark"><?= $betaAndMape[1]; ?>%</h1>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-md-3 align-self-center">
-                    <div class="card bg-light">
-                        <div class="card-body">
-                            <h5 class="card-title text-center">Forecasting Accuracy</h5>
-                            <h1 class="display-5 text-center font-weight-bold text-dark"><?= 100 - $betaAndMape[1]; ?>%</h1>
                         </div>
                     </div>
                 </div>

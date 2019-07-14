@@ -129,4 +129,9 @@ class Forecasting_model
     }
 }
 
-
+/* 
+    Lampiran Bukti Beta Terbaik dari perhitungan peramalan
+    Rumusan Masalah : Tambahi (Penerapan Hasil)
+    Ringkasan Tabel Untuk Perbandingan
+    Hilangkan Pemborosan Kata2
+*/
